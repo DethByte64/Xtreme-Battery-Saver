@@ -253,7 +253,6 @@ We welcome contributions! To contribute:
 - Gratitude to XDA and Reddit users for feedback and testing.
 
 ---
-## Star History
 
 ## Star History
 
