@@ -256,13 +256,7 @@ We welcome contributions! To contribute:
 
 ## Star History
 
-<a href="https://star-history.dera.page/DethByte64/Xtreme-Battery-Saver?compare=Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver" />
-   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver" />
- </picture>
-</a>
+![Star History](https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver&theme=dark)
 
 ---
 
