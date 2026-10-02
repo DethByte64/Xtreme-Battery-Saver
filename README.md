@@ -5,9 +5,6 @@
 
 **XtremeBS** is a Magisk/KernelSU module designed for rooted Android devices, offering aggressive battery optimization through dynamic, event-driven settings. It allows advanced users to fine-tune CPU cores, apps, WiFi, Doze mode, and more to extend battery life significantly—potentially up to 5x stock uptime. While powerful, it requires careful configuration to avoid lag, missed notifications, or device instability.
 
-> [!NOTE]
-> An Android app is in development to simplify configuration and enhance usability. The current web UI (v1.0.6+) will be replaced upon app release.
-
 ---
 
 ## Features
@@ -25,7 +22,7 @@
 
 - **Magisk** (Confirmed)
 - **KernelSU** (Confirmed)
-- **APatch** (Likely compatible; please report results on [GitHub Issues](https://github.com/DethByte64/Xtreme-Battery-Saver/issues))
+- **APatch** (Reports show incompatiblity; Unknown still)
 
 ---
 
@@ -254,6 +251,19 @@ We welcome contributions! To contribute:
 - Special thanks to NanKillBro for KernelSU testing.
 
 - Gratitude to XDA and Reddit users for feedback and testing.
+
+---
+## Star History
+
+## Star History
+
+<a href="https://star-history.dera.page/DethByte64/Xtreme-Battery-Saver?compare=Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver" />
+   <img alt="Star History Chart" src="https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver" />
+ </picture>
+</a>
 
 ---
 
