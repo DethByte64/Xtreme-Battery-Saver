@@ -254,12 +254,6 @@ We welcome contributions! To contribute:
 
 ---
 
-## Star History
-
-![Star History](https://star-history.dera.page/svg?repos=DethByte64/Xtreme-Battery-Saver,Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver&theme=dark)
-
----
-
 ## License
 
 XtremeBS is released under the [GPLv3 License](LICENSE.md).
